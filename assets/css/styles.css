@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+:root {
+  --primary: #26272c;
+  --secondary: #009946;
+  --third: #1e1f24;
+}
+.logo {
+  margin: 0 auto;
+  padding: 0.5em;
+}
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  justify-content: space-between;
+  padding: 0.5em;
+}
