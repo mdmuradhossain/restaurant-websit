@@ -1,2 +1,2 @@
-# restaurant-websit
+# restaurant-website
 Restaurant Website
