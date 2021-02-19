@@ -22,3 +22,18 @@ nav ul li {
   justify-content: space-between;
   padding: 0.5em;
 }
+
+header {
+  background-image: url("../images/pizza.jpg");
+}
+.nuggets {
+  width: 200px;
+  height: 200px;
+  border-radius: 10em;
+}
+
+.bacon {
+  width: 200px;
+  height: 200px;
+  border-radius: 10em;
+}
