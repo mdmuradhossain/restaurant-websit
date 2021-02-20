@@ -37,3 +37,14 @@ header {
   height: 200px;
   border-radius: 10em;
 }
+
+.chef-menu {
+  width: 130px;
+  height: 260px;
+  background-color: #009946;
+  border-radius: 5em;
+}
+
+.chef-menu img {
+  border-radius: 50%;
+}
